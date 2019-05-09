@@ -10,8 +10,8 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.5.0"
-group= "com.xray.xray"
-archivesBaseName = "xray-1.12.2"
+group= "com.fps.fps"
+archivesBaseName = "fps-1.12.2"
 
 sourceCompatibility = targetCompatibility = '1.8'
 compileJava {
